@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.studioidan.skarim"
+    android:versionCode="2"
+    android:versionName="1.2" >
+
+    <uses-sdk
+        android:minSdkVersion="11"
+        android:targetSdkVersion="21" />
+
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <application
+        android:name="com.studioidan.skarim.App"
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.studioidan.skarim.activities.MainActivity"
+            android:configChanges="locale|keyboardHidden|orientation|screenSize"
+            android:label="@string/app_name"
+            android:screenOrientation="landscape"
+            android:windowSoftInputMode="adjustPan|adjustResize" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.studioidan.skarim.activities.SurveyActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:label="@string/title_activity_counter"
+            android:screenOrientation="landscape" />
+
+        <service android:name="com.studioidan.skarim.LocationService" />
+
+        <activity
+            android:name="com.studioidan.skarim.activities.CompleteSeker"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:label="@string/title_activity_complete_seker"
+            android:screenOrientation="landscape" />
+    </application>
+
+</manifest>

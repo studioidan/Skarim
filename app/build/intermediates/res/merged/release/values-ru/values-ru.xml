@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Add">Добавить</string>
+    <string name="AddNewTrip">Введите порядковый номер поездки </string>
+    <string name="AreYouSure">Вы уверенны? </string>
+    <string name="BusNumber">Номер автобуса</string>
+    <string name="BusType">Тип автобуса </string>
+    <string name="Cancel">Отменить </string>
+    <string name="CloseApp">Закрыть аппликацию</string>
+    <string name="Continue">Продолжение </string>
+    <string name="Delete">Удалить </string>
+    <string name="DoorClosed">Дверь закрыта </string>
+    <string name="DoorOpened">Дверь открыта </string>
+    <string name="Finish">Завершить </string>
+    <string name="FreeText1">Свободный текст 1 </string>
+    <string name="FreeText2">Свободный текст 2</string>
+    <string name="NoTripIdWasEntered">Не введён номер поездки </string>
+    <string name="Start">Начать </string>
+    <string name="TripId">Номер поездки </string>
+    <string name="WaitForContinueDialog">Подождать, открывается диалоговое окно </string>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Перейти на главный экран"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Перейти вверх"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Другие параметры"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Готово"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Показать все"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Выбрать приложение"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Удалить запрос"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Поисковый запрос"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Поиск"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Отправить запрос"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Голосовой поиск"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Открыть доступ"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Открыть доступ пользователю %s"</string>
+    <string name="alighting">Выходящие </string>
+    <string name="app_name">Skarim</string>
+    <string name="boarding">Входящие </string>
+    <string name="danger_you_are_about_to_exit_without_saving_the_data_continue_">Осторожно!!!Вы уверены что хотите выйти без сохранения информации? </string>
+    <string name="end_trip_">Завершить поездку? </string>
+    <string name="exelSent">Иксейлевский файл благополучно отправлен! </string>
+    <string name="how_many_passangers_continue_">Какое количество пассажиров находится в автобусе </string>
+    <string name="no">Нет</string>
+    <string name="numberOfSeats">Количество сидячих посадочных мест </string>
+    <string name="ok">Окей</string>
+    <string name="please_enter_surveyor_id">Пожалуйста, введите свой порядковый номер </string>
+    <string name="please_enter_trip_id">Пожалуйста, введите порядковый номер поездки </string>
+    <string name="reset">Обнулить </string>
+    <string name="title_activity_add_trips">Добавить поездку </string>
+    <string name="title_activity_complete_seker">Исследование завершено </string>
+    <string name="title_activity_counter">CounterActivity</string>
+    <string name="total">Итого:</string>
+    <string name="yes">Да </string>
+</resources>

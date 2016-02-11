@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:padding="20dp" >
+
+        <TextView
+            android:id="@+id/tv_counter_down_total"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="20dp"
+            android:gravity="center"
+            android:textSize="40sp"
+            android:text="@string/how_many_passangers_continue_"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+
+        <EditText
+            android:id="@+id/et_dialog__continue"
+            android:layout_width="500dp"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp" >
+        </EditText>
+
+        <Button
+            android:id="@+id/btn_dialog_continue_ok"
+            style="@style/btnStyleBlue"
+            android:layout_width="500dp"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="5dp"
+            android:text="@string/ok"
+            android:textSize="40sp" />
+
+    </LinearLayout>
+
+</LinearLayout>

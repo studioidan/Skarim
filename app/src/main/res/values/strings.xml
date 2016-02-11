@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Skarim</string>
+    <string name="please_enter_surveyor_id">Please Enter Surveyor Id</string>
+    <string name="ok">Ok</string>
+    <string name="title_activity_add_trips">AddTrips</string>
+    <string name="please_enter_trip_id">Please enter trip id</string>
+    <string name="title_activity_counter">CounterActivity</string>
+    <string name="total">Total:</string>
+    <string name="alighting">Alighting</string>
+    <string name="boarding">Boarding</string>
+    <string name="reset">Reset</string>
+    <string name="how_many_passangers_continue_">How many passengers are on the bus?</string>
+    <string name="end_trip_">End trip?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="title_activity_complete_seker">CompleteSeker</string>
+    <string name="danger_you_are_about_to_exit_without_saving_the_data_continue_">danger!!! you are about to exit without saving the data – continue?</string>
+    <string name="Finish">Finish</string>
+    <string name="DoorClosed">Door closed</string>
+    <string name="DoorOpened">Door opened</string>
+    <string name="Add">Add</string>
+    <string name="Cancel">Cancel</string>
+    <string name="exelSent">Exel file was successfully sent!</string>
+    <string name="Start">Start</string>
+    <string name="Delete">Delete</string>
+    <string name="TripId">Trip id</string>
+    <string name="AddNewTrip">Add New Trip</string>
+    <string name="CloseApp">Close Application</string>
+    <string name="WaitForContinueDialog">Wait for continue dialog</string>
+    <string name="AreYouSure">Are you sure?</string>
+    <string name="BusNumber">Bus number</string>
+    <string name="numberOfSeats">Number of seats</string>
+    <string name="BusType">Bus type</string>
+    <string name="FreeText1">Free text1</string>
+    <string name="FreeText2">Free text2</string>
+    <string name="NoTripIdWasEntered">No trip id was entered</string>
+    <string name="Continue">Continue</string>
+    <string name="title_activity_maps">Map</string>
+
+</resources>

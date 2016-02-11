@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\build\\intermediates\\res\\merged\\debug\\menu\\counter.xml",
+        "source": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\src\\main\\res\\menu\\counter.xml"
+    },
+    {
+        "merged": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\build\\intermediates\\res\\merged\\debug\\menu\\add_trips.xml",
+        "source": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\src\\main\\res\\menu\\add_trips.xml"
+    },
+    {
+        "merged": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\build\\intermediates\\res\\merged\\debug\\menu\\complete_seker.xml",
+        "source": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\src\\main\\res\\menu\\complete_seker.xml"
+    }
+]

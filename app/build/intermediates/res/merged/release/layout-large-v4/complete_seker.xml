@@ -1,0 +1,141 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/LinearLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF"
+    android:orientation="vertical"
+    tools:context=".activities.CompleteSeker" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" >
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:orientation="vertical" >
+
+                    <TextView
+                        android:id="@+id/textView1"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Bus number"
+                        android:textSize="30sp" />
+
+                    <EditText
+                        android:id="@+id/et_complete_seker_bus_number"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:ems="10" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:orientation="vertical" >
+
+                    <TextView
+                        android:id="@+id/TextView01"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Number of seats"
+                        android:textSize="30sp" />
+
+                    <EditText
+                        android:id="@+id/et_complete_seker_number_of_sits"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:ems="10" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:orientation="vertical" >
+
+                    <TextView
+                        android:id="@+id/TextView02"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Bus type"
+                        android:textSize="30sp" />
+
+                    <EditText
+                        android:id="@+id/et_complete_seker_bus_kind"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:ems="10" />
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" >
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:orientation="vertical" >
+
+                    <TextView
+                        android:id="@+id/TextView04"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Free text1"
+                        android:textSize="30sp" />
+
+                    <EditText
+                        android:id="@+id/et_complete_seker_free_text1"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:ems="10" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:orientation="vertical" >
+
+                    <TextView
+                        android:id="@+id/TextView03"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Free text2"
+                        android:textSize="30sp" />
+
+                    <EditText
+                        android:id="@+id/et_complete_seker_free_text2"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:ems="10" />
+                </LinearLayout>
+            </LinearLayout>
+
+            <Button
+                android:id="@+id/btn_completet_seker_save"
+                android:layout_width="match_parent"
+                android:layout_height="70dp"
+                android:onClick="onClick"
+                android:text="Save"
+                android:textSize="40sp" />
+
+        </LinearLayout>
+
+    </RelativeLayout>
+
+</LinearLayout>

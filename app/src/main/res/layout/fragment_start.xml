@@ -1,0 +1,65 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/scrollView1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF"
+    android:gravity="center"
+
+    tools:context=".activities.MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="right"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:id="@+id/imgLanRu"
+                android:layout_width="@dimen/M20"
+                android:layout_height="@dimen/M20"
+                android:padding="@dimen/S5"
+                android:scaleType="fitCenter"
+                android:src="@drawable/img_lan_ru" />
+
+            <ImageView
+                android:id="@+id/imgLanEn"
+                android:layout_width="@dimen/M20"
+                android:layout_height="@dimen/M20"
+                android:padding="@dimen/S5"
+                android:scaleType="fitCenter"
+                android:src="@drawable/img_lan_en" />
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/tv_row_trip_id"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="20dp"
+            android:text="@string/please_enter_surveyor_id"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textColor="#6B6B6B"
+            android:textSize="@dimen/SP20" />
+
+        <EditText
+            android:id="@+id/et_main_login"
+            android:layout_width="500dp"
+            android:layout_height="@dimen/L3"
+            android:layout_marginBottom="@dimen/S20"
+            android:inputType="number"></EditText>
+
+        <Button
+            android:id="@+id/btnOk"
+            style="@style/btnStyleBlue"
+            android:layout_width="500dp"
+            android:layout_height="@dimen/L3"
+            android:text="@string/ok" />
+    </LinearLayout>
+
+</ScrollView>

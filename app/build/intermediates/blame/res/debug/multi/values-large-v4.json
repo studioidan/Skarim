@@ -1,0 +1,2477 @@
+[
+    {
+        "outputFile": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\build\\intermediates\\res\\merged\\debug\\values-large-v4\\values-large-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 61,
+                    "endOffset": 112
+                },
+                "from": {
+                    "file": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-large\\values-large.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 292,
+                        "endColumn": 61,
+                        "endOffset": 349
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 117,
+                    "endColumn": 71,
+                    "endOffset": 184
+                },
+                "from": {
+                    "file": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-large\\values-large.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 592,
+                        "endColumn": 71,
+                        "endOffset": 659
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 189,
+                    "endColumn": 42,
+                    "endOffset": 227
+                },
+                "from": {
+                    "file": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\src\\main\\res\\values-large\\dimens.xml",
+                    "position": {
+                        "startLine": 127,
+                        "startColumn": 4,
+                        "startOffset": 4347,
+                        "endColumn": 42,
+                        "endOffset": 4385
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 232,
+                    "endColumn": 45,
+                    "endOffset": 273
+                },
+                "from": {
+                    "file": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\src\\main\\res\\values-large\\dimens.xml",
+                    "position": {
+                        "startLine": 128,
+                        "startColumn": 4,
+                        "startOffset": 4391,
+                        "endColumn": 45,
+                        "endOffset": 4432
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 278,
+                    "endColumn": 45,
+                    "endOffset": 319
+                },
+                "from": {
+                    "file": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\src\\main\\res\\values-large\\dimens.xml",
+                    "position": {
+                        "startLine": 129,
+                        "startColumn": 4,
+                        "startOffset": 4438,
+                        "endColumn": 45,
+                        "endOffset": 4479
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 324,
+                    "endColumn": 45,
+                    "endOffset": 365
+                },
+                "from": {
+                    "file": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\src\\main\\res\\values-large\\dimens.xml",
+                    "position": {
+                        "startLine": 130,
+                        "startColumn": 4,
+                        "startOffset": 4485,
+                        "endColumn": 45,
+                        "endOffset": 4526
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 370,
+                    "endColumn": 33,
+                    "endOffset": 399
+                },
+                "from": {
+                    "file": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\src\\main\\res\\values-large\\dimens.xml",
+                    "position": {
+                        "startLine": 55,
+                        "startColumn": 4,
+                        "startOffset": 1863,
+                        "endColumn": 33,
+                        "endOffset": 1892
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 404,
+                    "endColumn": 35,
+                    "endOffset": 435
+                },
+                "from": {
+                    "file": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\src\\main\\res\\values-large\\dimens.xml",
+                    "position": {
+                        "startLine": 64,
+                        "startColumn": 4,
+                        "startOffset": 2180,
+                        "endColumn": 35,
+                        "endOffset": 2211
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 440,
+                    "endColumn": 35,
+                    "endOffset": 471
+                },
+                "from": {
+                    "file": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\src\\main\\res\\values-large\\dimens.xml",
+                    "position": {
+                        "startLine": 65,
+                        "startColumn": 4,
+                        "startOffset": 2217,
+                        "endColumn": 35,
+                        "endOffset": 2248
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 476,
+                    "endColumn": 35,
+                    "endOffset": 507
+                },
+                "from": {
+                    "file": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\src\\main\\res\\values-large\\dimens.xml",
+                    "position": {
+                        "startLine": 66,
+                        "startColumn": 4,
+                        "startOffset": 2254,
+                        "endColumn": 35,
+                        "endOffset": 2285
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 512,
+                    "endColumn": 35,
+                    "endOffset": 543
+                },
+                "from": {
+                    "file": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\src\\main\\res\\values-large\\dimens.xml",
+                    "position": {
+                        "startLine": 67,
+                        "startColumn": 4,
+                        "startOffset": 2291,
+                        "endColumn": 35,
+                        "endOffset": 2322
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 548,
+                    "endColumn": 35,
+                    "endOffset": 579
+                },
+                "from": {
+                    "file": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\src\\main\\res\\values-large\\dimens.xml",
+                    "position": {
+                        "startLine": 68,
+                        "startColumn": 4,
+                        "startOffset": 2328,
+                        "endColumn": 35,
+                        "endOffset": 2359
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 584,
+                    "endColumn": 35,
+                    "endOffset": 615
+                },
+                "from": {
+                    "file": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\src\\main\\res\\values-large\\dimens.xml",
+                    "position": {
+                        "startLine": 69,
+                        "startColumn": 4,
+                        "startOffset": 2365,
+                        "endColumn": 35,
+                        "endOffset": 2396
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 620,
+                    "endColumn": 35,
+                    "endOffset": 651
+                },
+                "from": {
+                    "file": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\src\\main\\res\\values-large\\dimens.xml",
+                    "position": {
+                        "startLine": 70,
+                        "startColumn": 4,
+                        "startOffset": 2402,
+                        "endColumn": 35,
+                        "endOffset": 2433
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 656,
+                    "endColumn": 35,
+                    "endOffset": 687
+                },
+                "from": {
+                    "file": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\src\\main\\res\\values-large\\dimens.xml",
+                    "position": {
+                        "startLine": 71,
+                        "startColumn": 4,
+                        "startOffset": 2439,
+                        "endColumn": 35,
+                        "endOffset": 2470
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 692,
+                    "endColumn": 35,
+                    "endOffset": 723
+                },
+                "from": {
+                    "file": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\src\\main\\res\\values-large\\dimens.xml",
+                    "position": {
+                        "startLine": 72,
+                        "startColumn": 4,
+                        "startOffset": 2476,
+                        "endColumn": 35,
+                        "endOffset": 2507
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 728,
+                    "endColumn": 35,
+                    "endOffset": 759
+                },
+                "from": {
+                    "file": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\src\\main\\res\\values-large\\dimens.xml",
+                    "position": {
+                        "startLine": 73,
+                        "startColumn": 4,
+                        "startOffset": 2513,
+                        "endColumn": 35,
+                        "endOffset": 2544
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 764,
+                    "endColumn": 33,
+                    "endOffset": 793
+                },
+                "from": {
+                    "file": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\src\\main\\res\\values-large\\dimens.xml",
+                    "position": {
+                        "startLine": 56,
+                        "startColumn": 4,
+                        "startOffset": 1898,
+                        "endColumn": 33,
+                        "endOffset": 1927
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 798,
+                    "endColumn": 35,
+                    "endOffset": 829
+                },
+                "from": {
+                    "file": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\src\\main\\res\\values-large\\dimens.xml",
+                    "position": {
+                        "startLine": 74,
+                        "startColumn": 4,
+                        "startOffset": 2550,
+                        "endColumn": 35,
+                        "endOffset": 2581
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 834,
+                    "endColumn": 33,
+                    "endOffset": 863
+                },
+                "from": {
+                    "file": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\src\\main\\res\\values-large\\dimens.xml",
+                    "position": {
+                        "startLine": 57,
+                        "startColumn": 4,
+                        "startOffset": 1933,
+                        "endColumn": 33,
+                        "endOffset": 1962
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 868,
+                    "endColumn": 33,
+                    "endOffset": 897
+                },
+                "from": {
+                    "file": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\src\\main\\res\\values-large\\dimens.xml",
+                    "position": {
+                        "startLine": 58,
+                        "startColumn": 4,
+                        "startOffset": 1968,
+                        "endColumn": 33,
+                        "endOffset": 1997
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 902,
+                    "endColumn": 33,
+                    "endOffset": 931
+                },
+                "from": {
+                    "file": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\src\\main\\res\\values-large\\dimens.xml",
+                    "position": {
+                        "startLine": 59,
+                        "startColumn": 4,
+                        "startOffset": 2003,
+                        "endColumn": 33,
+                        "endOffset": 2032
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 936,
+                    "endColumn": 33,
+                    "endOffset": 965
+                },
+                "from": {
+                    "file": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\src\\main\\res\\values-large\\dimens.xml",
+                    "position": {
+                        "startLine": 60,
+                        "startColumn": 4,
+                        "startOffset": 2038,
+                        "endColumn": 33,
+                        "endOffset": 2067
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 970,
+                    "endColumn": 33,
+                    "endOffset": 999
+                },
+                "from": {
+                    "file": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\src\\main\\res\\values-large\\dimens.xml",
+                    "position": {
+                        "startLine": 61,
+                        "startColumn": 4,
+                        "startOffset": 2073,
+                        "endColumn": 33,
+                        "endOffset": 2102
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1004,
+                    "endColumn": 34,
+                    "endOffset": 1034
+                },
+                "from": {
+                    "file": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\src\\main\\res\\values-large\\dimens.xml",
+                    "position": {
+                        "startLine": 62,
+                        "startColumn": 4,
+                        "startOffset": 2108,
+                        "endColumn": 34,
+                        "endOffset": 2138
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1039,
+                    "endColumn": 34,
+                    "endOffset": 1069
+                },
+                "from": {
+                    "file": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\src\\main\\res\\values-large\\dimens.xml",
+                    "position": {
+                        "startLine": 63,
+                        "startColumn": 4,
+                        "startOffset": 2144,
+                        "endColumn": 34,
+                        "endOffset": 2174
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1074,
+                    "endColumn": 33,
+                    "endOffset": 1103
+                },
+                "from": {
+                    "file": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\src\\main\\res\\values-large\\dimens.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1150,
+                        "endColumn": 33,
+                        "endOffset": 1179
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1108,
+                    "endColumn": 34,
+                    "endOffset": 1138
+                },
+                "from": {
+                    "file": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\src\\main\\res\\values-large\\dimens.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 4,
+                        "startOffset": 1465,
+                        "endColumn": 34,
+                        "endOffset": 1495
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1143,
+                    "endColumn": 34,
+                    "endOffset": 1173
+                },
+                "from": {
+                    "file": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\src\\main\\res\\values-large\\dimens.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 1501,
+                        "endColumn": 34,
+                        "endOffset": 1531
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 1178,
+                    "endColumn": 34,
+                    "endOffset": 1208
+                },
+                "from": {
+                    "file": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\src\\main\\res\\values-large\\dimens.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 4,
+                        "startOffset": 1537,
+                        "endColumn": 34,
+                        "endOffset": 1567
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 1213,
+                    "endColumn": 34,
+                    "endOffset": 1243
+                },
+                "from": {
+                    "file": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\src\\main\\res\\values-large\\dimens.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 4,
+                        "startOffset": 1573,
+                        "endColumn": 34,
+                        "endOffset": 1603
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 1248,
+                    "endColumn": 34,
+                    "endOffset": 1278
+                },
+                "from": {
+                    "file": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\src\\main\\res\\values-large\\dimens.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 4,
+                        "startOffset": 1609,
+                        "endColumn": 34,
+                        "endOffset": 1639
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 1283,
+                    "endColumn": 34,
+                    "endOffset": 1313
+                },
+                "from": {
+                    "file": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\src\\main\\res\\values-large\\dimens.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 4,
+                        "startOffset": 1645,
+                        "endColumn": 34,
+                        "endOffset": 1675
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 1318,
+                    "endColumn": 34,
+                    "endOffset": 1348
+                },
+                "from": {
+                    "file": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\src\\main\\res\\values-large\\dimens.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 4,
+                        "startOffset": 1681,
+                        "endColumn": 34,
+                        "endOffset": 1711
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 1353,
+                    "endColumn": 34,
+                    "endOffset": 1383
+                },
+                "from": {
+                    "file": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\src\\main\\res\\values-large\\dimens.xml",
+                    "position": {
+                        "startLine": 50,
+                        "startColumn": 4,
+                        "startOffset": 1717,
+                        "endColumn": 34,
+                        "endOffset": 1747
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 1388,
+                    "endColumn": 34,
+                    "endOffset": 1418
+                },
+                "from": {
+                    "file": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\src\\main\\res\\values-large\\dimens.xml",
+                    "position": {
+                        "startLine": 51,
+                        "startColumn": 4,
+                        "startOffset": 1753,
+                        "endColumn": 34,
+                        "endOffset": 1783
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 1423,
+                    "endColumn": 34,
+                    "endOffset": 1453
+                },
+                "from": {
+                    "file": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\src\\main\\res\\values-large\\dimens.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 4,
+                        "startOffset": 1789,
+                        "endColumn": 34,
+                        "endOffset": 1819
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 1458,
+                    "endColumn": 33,
+                    "endOffset": 1487
+                },
+                "from": {
+                    "file": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\src\\main\\res\\values-large\\dimens.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 1185,
+                        "endColumn": 33,
+                        "endOffset": 1214
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 1492,
+                    "endColumn": 34,
+                    "endOffset": 1522
+                },
+                "from": {
+                    "file": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\src\\main\\res\\values-large\\dimens.xml",
+                    "position": {
+                        "startLine": 53,
+                        "startColumn": 4,
+                        "startOffset": 1825,
+                        "endColumn": 34,
+                        "endOffset": 1855
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 1527,
+                    "endColumn": 33,
+                    "endOffset": 1556
+                },
+                "from": {
+                    "file": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\src\\main\\res\\values-large\\dimens.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 1220,
+                        "endColumn": 33,
+                        "endOffset": 1249
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 1561,
+                    "endColumn": 33,
+                    "endOffset": 1590
+                },
+                "from": {
+                    "file": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\src\\main\\res\\values-large\\dimens.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 1255,
+                        "endColumn": 33,
+                        "endOffset": 1284
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 1595,
+                    "endColumn": 33,
+                    "endOffset": 1624
+                },
+                "from": {
+                    "file": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\src\\main\\res\\values-large\\dimens.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 1290,
+                        "endColumn": 33,
+                        "endOffset": 1319
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 1629,
+                    "endColumn": 33,
+                    "endOffset": 1658
+                },
+                "from": {
+                    "file": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\src\\main\\res\\values-large\\dimens.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 1325,
+                        "endColumn": 33,
+                        "endOffset": 1354
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 1663,
+                    "endColumn": 33,
+                    "endOffset": 1692
+                },
+                "from": {
+                    "file": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\src\\main\\res\\values-large\\dimens.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 1360,
+                        "endColumn": 33,
+                        "endOffset": 1389
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 1697,
+                    "endColumn": 33,
+                    "endOffset": 1726
+                },
+                "from": {
+                    "file": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\src\\main\\res\\values-large\\dimens.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 4,
+                        "startOffset": 1395,
+                        "endColumn": 33,
+                        "endOffset": 1424
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 1731,
+                    "endColumn": 33,
+                    "endOffset": 1760
+                },
+                "from": {
+                    "file": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\src\\main\\res\\values-large\\dimens.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 1430,
+                        "endColumn": 33,
+                        "endOffset": 1459
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 1765,
+                    "endColumn": 39,
+                    "endOffset": 1800
+                },
+                "from": {
+                    "file": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\src\\main\\res\\values-large\\dimens.xml",
+                    "position": {
+                        "startLine": 122,
+                        "startColumn": 4,
+                        "startOffset": 4196,
+                        "endColumn": 39,
+                        "endOffset": 4231
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 1805,
+                    "endColumn": 39,
+                    "endOffset": 1840
+                },
+                "from": {
+                    "file": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\src\\main\\res\\values-large\\dimens.xml",
+                    "position": {
+                        "startLine": 121,
+                        "startColumn": 4,
+                        "startOffset": 4155,
+                        "endColumn": 39,
+                        "endOffset": 4190
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 1845,
+                    "endColumn": 39,
+                    "endOffset": 1880
+                },
+                "from": {
+                    "file": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\src\\main\\res\\values-large\\dimens.xml",
+                    "position": {
+                        "startLine": 120,
+                        "startColumn": 4,
+                        "startOffset": 4114,
+                        "endColumn": 39,
+                        "endOffset": 4149
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 1885,
+                    "endColumn": 39,
+                    "endOffset": 1920
+                },
+                "from": {
+                    "file": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\src\\main\\res\\values-large\\dimens.xml",
+                    "position": {
+                        "startLine": 119,
+                        "startColumn": 4,
+                        "startOffset": 4073,
+                        "endColumn": 39,
+                        "endOffset": 4108
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 1925,
+                    "endColumn": 41,
+                    "endOffset": 1962
+                },
+                "from": {
+                    "file": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\src\\main\\res\\values-large\\dimens.xml",
+                    "position": {
+                        "startLine": 123,
+                        "startColumn": 4,
+                        "startOffset": 4237,
+                        "endColumn": 41,
+                        "endOffset": 4274
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 1967,
+                    "endColumn": 42,
+                    "endOffset": 2005
+                },
+                "from": {
+                    "file": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\src\\main\\res\\values-large\\dimens.xml",
+                    "position": {
+                        "startLine": 124,
+                        "startColumn": 4,
+                        "startOffset": 4280,
+                        "endColumn": 42,
+                        "endOffset": 4318
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 2010,
+                    "endColumn": 32,
+                    "endOffset": 2038
+                },
+                "from": {
+                    "file": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\src\\main\\res\\values-large\\dimens.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 446,
+                        "endColumn": 32,
+                        "endOffset": 474
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 2043,
+                    "endColumn": 34,
+                    "endOffset": 2073
+                },
+                "from": {
+                    "file": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\src\\main\\res\\values-large\\dimens.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 752,
+                        "endColumn": 34,
+                        "endOffset": 782
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 2078,
+                    "endColumn": 34,
+                    "endOffset": 2108
+                },
+                "from": {
+                    "file": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\src\\main\\res\\values-large\\dimens.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 788,
+                        "endColumn": 34,
+                        "endOffset": 818
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 2113,
+                    "endColumn": 34,
+                    "endOffset": 2143
+                },
+                "from": {
+                    "file": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\src\\main\\res\\values-large\\dimens.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 824,
+                        "endColumn": 34,
+                        "endOffset": 854
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 2148,
+                    "endColumn": 34,
+                    "endOffset": 2178
+                },
+                "from": {
+                    "file": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\src\\main\\res\\values-large\\dimens.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 860,
+                        "endColumn": 34,
+                        "endOffset": 890
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 2183,
+                    "endColumn": 34,
+                    "endOffset": 2213
+                },
+                "from": {
+                    "file": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\src\\main\\res\\values-large\\dimens.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 896,
+                        "endColumn": 34,
+                        "endOffset": 926
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 2218,
+                    "endColumn": 34,
+                    "endOffset": 2248
+                },
+                "from": {
+                    "file": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\src\\main\\res\\values-large\\dimens.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 932,
+                        "endColumn": 34,
+                        "endOffset": 962
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 2253,
+                    "endColumn": 34,
+                    "endOffset": 2283
+                },
+                "from": {
+                    "file": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\src\\main\\res\\values-large\\dimens.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 968,
+                        "endColumn": 34,
+                        "endOffset": 998
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 2288,
+                    "endColumn": 34,
+                    "endOffset": 2318
+                },
+                "from": {
+                    "file": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\src\\main\\res\\values-large\\dimens.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1004,
+                        "endColumn": 34,
+                        "endOffset": 1034
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 2323,
+                    "endColumn": 34,
+                    "endOffset": 2353
+                },
+                "from": {
+                    "file": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\src\\main\\res\\values-large\\dimens.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1040,
+                        "endColumn": 34,
+                        "endOffset": 1070
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 2358,
+                    "endColumn": 34,
+                    "endOffset": 2388
+                },
+                "from": {
+                    "file": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\src\\main\\res\\values-large\\dimens.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1076,
+                        "endColumn": 34,
+                        "endOffset": 1106
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 2393,
+                    "endColumn": 32,
+                    "endOffset": 2421
+                },
+                "from": {
+                    "file": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\src\\main\\res\\values-large\\dimens.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 480,
+                        "endColumn": 32,
+                        "endOffset": 508
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 66,
+                    "startColumn": 4,
+                    "startOffset": 2426,
+                    "endColumn": 34,
+                    "endOffset": 2456
+                },
+                "from": {
+                    "file": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\src\\main\\res\\values-large\\dimens.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 1112,
+                        "endColumn": 34,
+                        "endOffset": 1142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 67,
+                    "startColumn": 4,
+                    "startOffset": 2461,
+                    "endColumn": 32,
+                    "endOffset": 2489
+                },
+                "from": {
+                    "file": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\src\\main\\res\\values-large\\dimens.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 514,
+                        "endColumn": 32,
+                        "endOffset": 542
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 68,
+                    "startColumn": 4,
+                    "startOffset": 2494,
+                    "endColumn": 32,
+                    "endOffset": 2522
+                },
+                "from": {
+                    "file": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\src\\main\\res\\values-large\\dimens.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 548,
+                        "endColumn": 32,
+                        "endOffset": 576
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 69,
+                    "startColumn": 4,
+                    "startOffset": 2527,
+                    "endColumn": 32,
+                    "endOffset": 2555
+                },
+                "from": {
+                    "file": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\src\\main\\res\\values-large\\dimens.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 582,
+                        "endColumn": 32,
+                        "endOffset": 610
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 70,
+                    "startColumn": 4,
+                    "startOffset": 2560,
+                    "endColumn": 32,
+                    "endOffset": 2588
+                },
+                "from": {
+                    "file": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\src\\main\\res\\values-large\\dimens.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 616,
+                        "endColumn": 32,
+                        "endOffset": 644
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 71,
+                    "startColumn": 4,
+                    "startOffset": 2593,
+                    "endColumn": 32,
+                    "endOffset": 2621
+                },
+                "from": {
+                    "file": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\src\\main\\res\\values-large\\dimens.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 650,
+                        "endColumn": 32,
+                        "endOffset": 678
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 72,
+                    "startColumn": 4,
+                    "startOffset": 2626,
+                    "endColumn": 32,
+                    "endOffset": 2654
+                },
+                "from": {
+                    "file": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\src\\main\\res\\values-large\\dimens.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 684,
+                        "endColumn": 32,
+                        "endOffset": 712
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 73,
+                    "startColumn": 4,
+                    "startOffset": 2659,
+                    "endColumn": 32,
+                    "endOffset": 2687
+                },
+                "from": {
+                    "file": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\src\\main\\res\\values-large\\dimens.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 718,
+                        "endColumn": 32,
+                        "endOffset": 746
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 74,
+                    "startColumn": 4,
+                    "startOffset": 2692,
+                    "endColumn": 33,
+                    "endOffset": 2721
+                },
+                "from": {
+                    "file": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\src\\main\\res\\values-large\\dimens.xml",
+                    "position": {
+                        "startLine": 98,
+                        "startColumn": 4,
+                        "startOffset": 3344,
+                        "endColumn": 33,
+                        "endOffset": 3373
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 75,
+                    "startColumn": 4,
+                    "startOffset": 2726,
+                    "endColumn": 35,
+                    "endOffset": 2757
+                },
+                "from": {
+                    "file": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\src\\main\\res\\values-large\\dimens.xml",
+                    "position": {
+                        "startLine": 107,
+                        "startColumn": 4,
+                        "startOffset": 3664,
+                        "endColumn": 35,
+                        "endOffset": 3695
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 76,
+                    "startColumn": 4,
+                    "startOffset": 2762,
+                    "endColumn": 35,
+                    "endOffset": 2793
+                },
+                "from": {
+                    "file": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\src\\main\\res\\values-large\\dimens.xml",
+                    "position": {
+                        "startLine": 108,
+                        "startColumn": 4,
+                        "startOffset": 3701,
+                        "endColumn": 35,
+                        "endOffset": 3732
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 77,
+                    "startColumn": 4,
+                    "startOffset": 2798,
+                    "endColumn": 35,
+                    "endOffset": 2829
+                },
+                "from": {
+                    "file": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\src\\main\\res\\values-large\\dimens.xml",
+                    "position": {
+                        "startLine": 109,
+                        "startColumn": 4,
+                        "startOffset": 3738,
+                        "endColumn": 35,
+                        "endOffset": 3769
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 78,
+                    "startColumn": 4,
+                    "startOffset": 2834,
+                    "endColumn": 35,
+                    "endOffset": 2865
+                },
+                "from": {
+                    "file": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\src\\main\\res\\values-large\\dimens.xml",
+                    "position": {
+                        "startLine": 110,
+                        "startColumn": 4,
+                        "startOffset": 3775,
+                        "endColumn": 35,
+                        "endOffset": 3806
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 79,
+                    "startColumn": 4,
+                    "startOffset": 2870,
+                    "endColumn": 35,
+                    "endOffset": 2901
+                },
+                "from": {
+                    "file": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\src\\main\\res\\values-large\\dimens.xml",
+                    "position": {
+                        "startLine": 111,
+                        "startColumn": 4,
+                        "startOffset": 3812,
+                        "endColumn": 35,
+                        "endOffset": 3843
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 80,
+                    "startColumn": 4,
+                    "startOffset": 2906,
+                    "endColumn": 35,
+                    "endOffset": 2937
+                },
+                "from": {
+                    "file": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\src\\main\\res\\values-large\\dimens.xml",
+                    "position": {
+                        "startLine": 112,
+                        "startColumn": 4,
+                        "startOffset": 3849,
+                        "endColumn": 35,
+                        "endOffset": 3880
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 81,
+                    "startColumn": 4,
+                    "startOffset": 2942,
+                    "endColumn": 35,
+                    "endOffset": 2973
+                },
+                "from": {
+                    "file": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\src\\main\\res\\values-large\\dimens.xml",
+                    "position": {
+                        "startLine": 113,
+                        "startColumn": 4,
+                        "startOffset": 3886,
+                        "endColumn": 35,
+                        "endOffset": 3917
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 82,
+                    "startColumn": 4,
+                    "startOffset": 2978,
+                    "endColumn": 35,
+                    "endOffset": 3009
+                },
+                "from": {
+                    "file": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\src\\main\\res\\values-large\\dimens.xml",
+                    "position": {
+                        "startLine": 114,
+                        "startColumn": 4,
+                        "startOffset": 3923,
+                        "endColumn": 35,
+                        "endOffset": 3954
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 83,
+                    "startColumn": 4,
+                    "startOffset": 3014,
+                    "endColumn": 35,
+                    "endOffset": 3045
+                },
+                "from": {
+                    "file": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\src\\main\\res\\values-large\\dimens.xml",
+                    "position": {
+                        "startLine": 115,
+                        "startColumn": 4,
+                        "startOffset": 3960,
+                        "endColumn": 35,
+                        "endOffset": 3991
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 84,
+                    "startColumn": 4,
+                    "startOffset": 3050,
+                    "endColumn": 35,
+                    "endOffset": 3081
+                },
+                "from": {
+                    "file": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\src\\main\\res\\values-large\\dimens.xml",
+                    "position": {
+                        "startLine": 116,
+                        "startColumn": 4,
+                        "startOffset": 3997,
+                        "endColumn": 35,
+                        "endOffset": 4028
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 85,
+                    "startColumn": 4,
+                    "startOffset": 3086,
+                    "endColumn": 33,
+                    "endOffset": 3115
+                },
+                "from": {
+                    "file": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\src\\main\\res\\values-large\\dimens.xml",
+                    "position": {
+                        "startLine": 99,
+                        "startColumn": 4,
+                        "startOffset": 3379,
+                        "endColumn": 33,
+                        "endOffset": 3408
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 86,
+                    "startColumn": 4,
+                    "startOffset": 3120,
+                    "endColumn": 35,
+                    "endOffset": 3151
+                },
+                "from": {
+                    "file": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\src\\main\\res\\values-large\\dimens.xml",
+                    "position": {
+                        "startLine": 117,
+                        "startColumn": 4,
+                        "startOffset": 4034,
+                        "endColumn": 35,
+                        "endOffset": 4065
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 87,
+                    "startColumn": 4,
+                    "startOffset": 3156,
+                    "endColumn": 33,
+                    "endOffset": 3185
+                },
+                "from": {
+                    "file": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\src\\main\\res\\values-large\\dimens.xml",
+                    "position": {
+                        "startLine": 100,
+                        "startColumn": 4,
+                        "startOffset": 3414,
+                        "endColumn": 33,
+                        "endOffset": 3443
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 88,
+                    "startColumn": 4,
+                    "startOffset": 3190,
+                    "endColumn": 33,
+                    "endOffset": 3219
+                },
+                "from": {
+                    "file": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\src\\main\\res\\values-large\\dimens.xml",
+                    "position": {
+                        "startLine": 101,
+                        "startColumn": 4,
+                        "startOffset": 3449,
+                        "endColumn": 33,
+                        "endOffset": 3478
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 89,
+                    "startColumn": 4,
+                    "startOffset": 3224,
+                    "endColumn": 34,
+                    "endOffset": 3254
+                },
+                "from": {
+                    "file": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\src\\main\\res\\values-large\\dimens.xml",
+                    "position": {
+                        "startLine": 102,
+                        "startColumn": 4,
+                        "startOffset": 3484,
+                        "endColumn": 34,
+                        "endOffset": 3514
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 90,
+                    "startColumn": 4,
+                    "startOffset": 3259,
+                    "endColumn": 34,
+                    "endOffset": 3289
+                },
+                "from": {
+                    "file": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\src\\main\\res\\values-large\\dimens.xml",
+                    "position": {
+                        "startLine": 103,
+                        "startColumn": 4,
+                        "startOffset": 3520,
+                        "endColumn": 34,
+                        "endOffset": 3550
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 91,
+                    "startColumn": 4,
+                    "startOffset": 3294,
+                    "endColumn": 34,
+                    "endOffset": 3324
+                },
+                "from": {
+                    "file": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\src\\main\\res\\values-large\\dimens.xml",
+                    "position": {
+                        "startLine": 104,
+                        "startColumn": 4,
+                        "startOffset": 3556,
+                        "endColumn": 34,
+                        "endOffset": 3586
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 92,
+                    "startColumn": 4,
+                    "startOffset": 3329,
+                    "endColumn": 34,
+                    "endOffset": 3359
+                },
+                "from": {
+                    "file": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\src\\main\\res\\values-large\\dimens.xml",
+                    "position": {
+                        "startLine": 105,
+                        "startColumn": 4,
+                        "startOffset": 3592,
+                        "endColumn": 34,
+                        "endOffset": 3622
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 93,
+                    "startColumn": 4,
+                    "startOffset": 3364,
+                    "endColumn": 34,
+                    "endOffset": 3394
+                },
+                "from": {
+                    "file": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\src\\main\\res\\values-large\\dimens.xml",
+                    "position": {
+                        "startLine": 106,
+                        "startColumn": 4,
+                        "startOffset": 3628,
+                        "endColumn": 34,
+                        "endOffset": 3658
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 94,
+                    "startColumn": 4,
+                    "startOffset": 3399,
+                    "endColumn": 35,
+                    "endOffset": 3430
+                },
+                "from": {
+                    "file": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\src\\main\\res\\values-large\\dimens.xml",
+                    "position": {
+                        "startLine": 76,
+                        "startColumn": 4,
+                        "startOffset": 2589,
+                        "endColumn": 35,
+                        "endOffset": 2620
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 95,
+                    "startColumn": 4,
+                    "startOffset": 3435,
+                    "endColumn": 36,
+                    "endOffset": 3467
+                },
+                "from": {
+                    "file": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\src\\main\\res\\values-large\\dimens.xml",
+                    "position": {
+                        "startLine": 85,
+                        "startColumn": 4,
+                        "startOffset": 2922,
+                        "endColumn": 36,
+                        "endOffset": 2954
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 96,
+                    "startColumn": 4,
+                    "startOffset": 3472,
+                    "endColumn": 36,
+                    "endOffset": 3504
+                },
+                "from": {
+                    "file": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\src\\main\\res\\values-large\\dimens.xml",
+                    "position": {
+                        "startLine": 86,
+                        "startColumn": 4,
+                        "startOffset": 2960,
+                        "endColumn": 36,
+                        "endOffset": 2992
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 97,
+                    "startColumn": 4,
+                    "startOffset": 3509,
+                    "endColumn": 36,
+                    "endOffset": 3541
+                },
+                "from": {
+                    "file": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\src\\main\\res\\values-large\\dimens.xml",
+                    "position": {
+                        "startLine": 87,
+                        "startColumn": 4,
+                        "startOffset": 2998,
+                        "endColumn": 36,
+                        "endOffset": 3030
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 98,
+                    "startColumn": 4,
+                    "startOffset": 3546,
+                    "endColumn": 36,
+                    "endOffset": 3578
+                },
+                "from": {
+                    "file": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\src\\main\\res\\values-large\\dimens.xml",
+                    "position": {
+                        "startLine": 88,
+                        "startColumn": 4,
+                        "startOffset": 3036,
+                        "endColumn": 36,
+                        "endOffset": 3068
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 99,
+                    "startColumn": 4,
+                    "startOffset": 3583,
+                    "endColumn": 36,
+                    "endOffset": 3615
+                },
+                "from": {
+                    "file": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\src\\main\\res\\values-large\\dimens.xml",
+                    "position": {
+                        "startLine": 89,
+                        "startColumn": 4,
+                        "startOffset": 3074,
+                        "endColumn": 36,
+                        "endOffset": 3106
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 100,
+                    "startColumn": 4,
+                    "startOffset": 3620,
+                    "endColumn": 36,
+                    "endOffset": 3652
+                },
+                "from": {
+                    "file": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\src\\main\\res\\values-large\\dimens.xml",
+                    "position": {
+                        "startLine": 90,
+                        "startColumn": 4,
+                        "startOffset": 3112,
+                        "endColumn": 36,
+                        "endOffset": 3144
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 101,
+                    "startColumn": 4,
+                    "startOffset": 3657,
+                    "endColumn": 36,
+                    "endOffset": 3689
+                },
+                "from": {
+                    "file": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\src\\main\\res\\values-large\\dimens.xml",
+                    "position": {
+                        "startLine": 91,
+                        "startColumn": 4,
+                        "startOffset": 3150,
+                        "endColumn": 36,
+                        "endOffset": 3182
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 102,
+                    "startColumn": 4,
+                    "startOffset": 3694,
+                    "endColumn": 36,
+                    "endOffset": 3726
+                },
+                "from": {
+                    "file": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\src\\main\\res\\values-large\\dimens.xml",
+                    "position": {
+                        "startLine": 92,
+                        "startColumn": 4,
+                        "startOffset": 3188,
+                        "endColumn": 36,
+                        "endOffset": 3220
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 103,
+                    "startColumn": 4,
+                    "startOffset": 3731,
+                    "endColumn": 36,
+                    "endOffset": 3763
+                },
+                "from": {
+                    "file": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\src\\main\\res\\values-large\\dimens.xml",
+                    "position": {
+                        "startLine": 93,
+                        "startColumn": 4,
+                        "startOffset": 3226,
+                        "endColumn": 36,
+                        "endOffset": 3258
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 104,
+                    "startColumn": 4,
+                    "startOffset": 3768,
+                    "endColumn": 36,
+                    "endOffset": 3800
+                },
+                "from": {
+                    "file": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\src\\main\\res\\values-large\\dimens.xml",
+                    "position": {
+                        "startLine": 94,
+                        "startColumn": 4,
+                        "startOffset": 3264,
+                        "endColumn": 36,
+                        "endOffset": 3296
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 105,
+                    "startColumn": 4,
+                    "startOffset": 3805,
+                    "endColumn": 35,
+                    "endOffset": 3836
+                },
+                "from": {
+                    "file": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\src\\main\\res\\values-large\\dimens.xml",
+                    "position": {
+                        "startLine": 77,
+                        "startColumn": 4,
+                        "startOffset": 2626,
+                        "endColumn": 35,
+                        "endOffset": 2657
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 106,
+                    "startColumn": 4,
+                    "startOffset": 3841,
+                    "endColumn": 36,
+                    "endOffset": 3873
+                },
+                "from": {
+                    "file": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\src\\main\\res\\values-large\\dimens.xml",
+                    "position": {
+                        "startLine": 95,
+                        "startColumn": 4,
+                        "startOffset": 3302,
+                        "endColumn": 36,
+                        "endOffset": 3334
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 107,
+                    "startColumn": 4,
+                    "startOffset": 3878,
+                    "endColumn": 35,
+                    "endOffset": 3909
+                },
+                "from": {
+                    "file": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\src\\main\\res\\values-large\\dimens.xml",
+                    "position": {
+                        "startLine": 78,
+                        "startColumn": 4,
+                        "startOffset": 2663,
+                        "endColumn": 35,
+                        "endOffset": 2694
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 108,
+                    "startColumn": 4,
+                    "startOffset": 3914,
+                    "endColumn": 35,
+                    "endOffset": 3945
+                },
+                "from": {
+                    "file": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\src\\main\\res\\values-large\\dimens.xml",
+                    "position": {
+                        "startLine": 79,
+                        "startColumn": 4,
+                        "startOffset": 2700,
+                        "endColumn": 35,
+                        "endOffset": 2731
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 109,
+                    "startColumn": 4,
+                    "startOffset": 3950,
+                    "endColumn": 35,
+                    "endOffset": 3981
+                },
+                "from": {
+                    "file": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\src\\main\\res\\values-large\\dimens.xml",
+                    "position": {
+                        "startLine": 80,
+                        "startColumn": 4,
+                        "startOffset": 2737,
+                        "endColumn": 35,
+                        "endOffset": 2768
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 110,
+                    "startColumn": 4,
+                    "startOffset": 3986,
+                    "endColumn": 35,
+                    "endOffset": 4017
+                },
+                "from": {
+                    "file": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\src\\main\\res\\values-large\\dimens.xml",
+                    "position": {
+                        "startLine": 81,
+                        "startColumn": 4,
+                        "startOffset": 2774,
+                        "endColumn": 35,
+                        "endOffset": 2805
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 111,
+                    "startColumn": 4,
+                    "startOffset": 4022,
+                    "endColumn": 35,
+                    "endOffset": 4053
+                },
+                "from": {
+                    "file": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\src\\main\\res\\values-large\\dimens.xml",
+                    "position": {
+                        "startLine": 82,
+                        "startColumn": 4,
+                        "startOffset": 2811,
+                        "endColumn": 35,
+                        "endOffset": 2842
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 112,
+                    "startColumn": 4,
+                    "startOffset": 4058,
+                    "endColumn": 35,
+                    "endOffset": 4089
+                },
+                "from": {
+                    "file": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\src\\main\\res\\values-large\\dimens.xml",
+                    "position": {
+                        "startLine": 83,
+                        "startColumn": 4,
+                        "startOffset": 2848,
+                        "endColumn": 35,
+                        "endOffset": 2879
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 113,
+                    "startColumn": 4,
+                    "startOffset": 4094,
+                    "endColumn": 35,
+                    "endOffset": 4125
+                },
+                "from": {
+                    "file": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\src\\main\\res\\values-large\\dimens.xml",
+                    "position": {
+                        "startLine": 84,
+                        "startColumn": 4,
+                        "startOffset": 2885,
+                        "endColumn": 35,
+                        "endOffset": 2916
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 114,
+                    "startColumn": 4,
+                    "startOffset": 4130,
+                    "endColumn": 58,
+                    "endOffset": 4184
+                },
+                "from": {
+                    "file": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-large\\values-large.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 664,
+                        "endColumn": 58,
+                        "endOffset": 718
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 115,
+                    "startColumn": 4,
+                    "startOffset": 4189,
+                    "endColumn": 63,
+                    "endOffset": 4248
+                },
+                "from": {
+                    "file": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-large\\values-large.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 961,
+                        "endColumn": 63,
+                        "endOffset": 1020
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 116,
+                    "startColumn": 4,
+                    "startOffset": 4253,
+                    "endColumn": 57,
+                    "endOffset": 4306
+                },
+                "from": {
+                    "file": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\src\\main\\res\\values-large\\dimens.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 90,
+                        "endColumn": 57,
+                        "endOffset": 143
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 117,
+                    "startColumn": 4,
+                    "startOffset": 4311,
+                    "endColumn": 55,
+                    "endOffset": 4362
+                },
+                "from": {
+                    "file": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\src\\main\\res\\values-large\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 149,
+                        "endColumn": 55,
+                        "endOffset": 200
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 118,
+                    "startColumn": 4,
+                    "startOffset": 4367,
+                    "endColumn": 66,
+                    "endOffset": 4429
+                },
+                "from": {
+                    "file": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-large\\values-large.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1025,
+                        "endColumn": 66,
+                        "endOffset": 1087
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 119,
+                    "startColumn": 4,
+                    "startOffset": 4434,
+                    "endColumn": 66,
+                    "endOffset": 4496
+                },
+                "from": {
+                    "file": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-large\\values-large.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1092,
+                        "endColumn": 66,
+                        "endOffset": 1154
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 120,
+                    "startColumn": 4,
+                    "startOffset": 4501,
+                    "endColumn": 65,
+                    "endOffset": 4562
+                },
+                "from": {
+                    "file": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-large\\values-large.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1159,
+                        "endColumn": 65,
+                        "endOffset": 1220
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 121,
+                    "startColumn": 4,
+                    "startOffset": 4567,
+                    "endColumn": 65,
+                    "endOffset": 4628
+                },
+                "from": {
+                    "file": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-large\\values-large.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1225,
+                        "endColumn": 65,
+                        "endOffset": 1286
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 122,
+                    "startColumn": 4,
+                    "startOffset": 4633,
+                    "endColumn": 41,
+                    "endOffset": 4670
+                },
+                "from": {
+                    "file": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\src\\main\\res\\values-large\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 206,
+                        "endColumn": 41,
+                        "endOffset": 243
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 123,
+                    "startColumn": 4,
+                    "startOffset": 4675,
+                    "endColumn": 45,
+                    "endOffset": 4716
+                },
+                "from": {
+                    "file": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\src\\main\\res\\values-large\\dimens.xml",
+                    "position": {
+                        "startLine": 131,
+                        "startColumn": 4,
+                        "startOffset": 4532,
+                        "endColumn": 45,
+                        "endOffset": 4573
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 124,
+                    "startColumn": 4,
+                    "startOffset": 4721,
+                    "endColumn": 59,
+                    "endOffset": 4776
+                },
+                "from": {
+                    "file": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\src\\main\\res\\values-large\\dimens.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 302,
+                        "endColumn": 59,
+                        "endOffset": 357
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 125,
+                    "startColumn": 4,
+                    "startOffset": 4781,
+                    "endColumn": 37,
+                    "endOffset": 4814
+                },
+                "from": {
+                    "file": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\src\\main\\res\\values-large\\dimens.xml",
+                    "position": {
+                        "startLine": 134,
+                        "startColumn": 4,
+                        "startOffset": 4605,
+                        "endColumn": 37,
+                        "endOffset": 4638
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 126,
+                    "startColumn": 4,
+                    "startOffset": 4819,
+                    "endColumn": 40,
+                    "endOffset": 4855
+                },
+                "from": {
+                    "file": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\src\\main\\res\\values-large\\dimens.xml",
+                    "position": {
+                        "startLine": 135,
+                        "startColumn": 4,
+                        "startOffset": 4644,
+                        "endColumn": 40,
+                        "endOffset": 4680
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 127,
+                    "startColumn": 4,
+                    "startOffset": 4860,
+                    "endColumn": 39,
+                    "endOffset": 4895
+                },
+                "from": {
+                    "file": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\src\\main\\res\\values-large\\dimens.xml",
+                    "position": {
+                        "startLine": 136,
+                        "startColumn": 4,
+                        "startOffset": 4686,
+                        "endColumn": 39,
+                        "endOffset": 4721
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 128,
+                    "startColumn": 4,
+                    "startOffset": 4900,
+                    "endColumn": 47,
+                    "endOffset": 4943
+                },
+                "from": {
+                    "file": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\src\\main\\res\\values-large\\dimens.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 253,
+                        "endColumn": 47,
+                        "endOffset": 296
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 129,
+                    "startColumn": 4,
+                    "startOffset": 4948,
+                    "endColumn": 54,
+                    "endOffset": 4998
+                },
+                "from": {
+                    "file": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-large\\values-large.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1291,
+                        "endColumn": 54,
+                        "endOffset": 1341
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 130,
+                    "startColumn": 4,
+                    "startOffset": 5003,
+                    "endColumn": 103,
+                    "endOffset": 5102
+                },
+                "from": {
+                    "file": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-large\\values-large.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1589,
+                        "endColumn": 103,
+                        "endOffset": 1688
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 131,
+                    "startColumn": 4,
+                    "startOffset": 5107,
+                    "endColumn": 115,
+                    "endOffset": 5218
+                },
+                "from": {
+                    "file": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-large\\values-large.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1693,
+                        "endColumn": 115,
+                        "endOffset": 1804
+                    }
+                }
+            }
+        ]
+    }
+]

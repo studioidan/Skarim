@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Skarim</string>
+    <string name="please_enter_surveyor_id">Пожалуйста, введите свой порядковый номер </string>
+    <string name="please_enter_trip_id">Пожалуйста, введите порядковый номер поездки </string>
+    <string name="Start">Начать </string>
+    <string name="TripId">Номер поездки </string>
+    <string name="boarding">Входящие </string>
+    <string name="alighting">Выходящие </string>
+    <string name="Finish">Завершить </string>
+    <string name="DoorOpened">Дверь открыта </string>
+    <string name="DoorClosed">Дверь закрыта </string>
+    <string name="Delete">Обнулить</string>
+    <string name="AddNewTrip">Введите порядковый номер поездки </string>
+    <string name="reset">Обнулить </string>
+    <string name="WaitForContinueDialog">Подождать, открывается диалоговое окно </string>
+    <string name="how_many_passangers_continue_">Какое количество пассажиров находится в автобусе </string>
+    <string name="AreYouSure">Вы уверенны? </string>
+    <string name="end_trip_">Завершить поездку? </string>
+    <string name="BusNumber">Номер автобуса</string>
+    <string name="numberOfSeats">Количество сидячих посадочных мест </string>
+    <string name="BusType">Тип автобуса </string>
+    <string name="FreeText1">Свободный текст 1 </string>
+    <string name="FreeText2">Свободный текст 2</string>
+    <string name="Continue">Продолжение </string>
+    <string name="yes">Да </string>
+    <string name="total">Итого:</string>
+    <string name="ok">Окей</string>
+    <string name="NoTripIdWasEntered">Не введён номер поездки </string>
+    <string name="no">Нет</string>
+    <string name="exelSent">Иксейлевский файл благополучно отправлен! </string>
+    <string name="danger_you_are_about_to_exit_without_saving_the_data_continue_">Осторожно!!!Вы уверены что хотите выйти без сохранения информации? </string>
+    <string name="Cancel">Отменить </string>
+    <string name="CloseApp">Закрыть аппликацию</string>
+    <string name="Add">Добавить</string>
+    <string name="title_activity_add_trips">Добавить поездку </string>
+    <string name="title_activity_complete_seker">Исследование завершено </string>
+    <string name="title_activity_counter">CounterActivity</string>
+</resources>

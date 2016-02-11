@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\dialog_continue_number.xml",
+        "source": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\src\\main\\res\\layout-large\\dialog_continue_number.xml"
+    },
+    {
+        "merged": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\dialog_end_trip.xml",
+        "source": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\src\\main\\res\\layout-large\\dialog_end_trip.xml"
+    },
+    {
+        "merged": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\main.xml",
+        "source": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\src\\main\\res\\layout-large\\main.xml"
+    },
+    {
+        "merged": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\counter_activity.xml",
+        "source": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\src\\main\\res\\layout-large\\counter_activity.xml"
+    },
+    {
+        "merged": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\complete_seker.xml",
+        "source": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\src\\main\\res\\layout-large\\complete_seker.xml"
+    },
+    {
+        "merged": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\add_trips.xml",
+        "source": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\src\\main\\res\\layout-large\\add_trips.xml"
+    },
+    {
+        "merged": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\dialog_success.xml",
+        "source": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\src\\main\\res\\layout-large\\dialog_success.xml"
+    },
+    {
+        "merged": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\dialog_add_trip.xml",
+        "source": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\src\\main\\res\\layout-large\\dialog_add_trip.xml"
+    },
+    {
+        "merged": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\dialog_exit.xml",
+        "source": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\src\\main\\res\\layout-large\\dialog_exit.xml"
+    },
+    {
+        "merged": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\row_trip.xml",
+        "source": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\src\\main\\res\\layout-large\\row_trip.xml"
+    }
+]

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:id="@+id/RelativeLayout1"
+        android:layout_width="match_parent"
+        android:layout_height="110dp"
+        android:gravity="center"
+        android:orientation="vertical" >
+
+        <Button
+            android:id="@+id/btn_add_trip_start_trip"
+            style="@style/btnStyleGreen"
+            android:layout_width="200dp"
+            android:layout_height="match_parent"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:text="Start"
+            android:textSize="45sp" />
+
+        <Button
+            android:id="@+id/btn_add_trip_delete_trip"
+            style="@style/btnStyleOrange"
+            android:layout_width="200dp"
+            android:layout_height="match_parent"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:text="Delete"
+            android:textSize="45sp" />
+
+        <TextView
+            android:id="@+id/tv_row_trip_id"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:text="Trip id"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textColor="#1a1a1a"
+            android:textSize="40sp" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#871a1a1a"
+        android:orientation="vertical" >
+    </LinearLayout>
+
+</LinearLayout>

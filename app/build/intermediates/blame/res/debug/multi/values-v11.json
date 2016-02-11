@@ -1,0 +1,415 @@
+[
+    {
+        "outputFile": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\build\\intermediates\\res\\merged\\debug\\values-v11\\values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\src\\main\\res\\values-v11\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\src\\main\\res\\values-v11\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endLine": 9,
+                    "endColumn": 12,
+                    "endOffset": 522
+                },
+                "from": {
+                    "file": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 183,
+                        "endLine": 11,
+                        "endColumn": 12,
+                        "endOffset": 541
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 527,
+                    "endLine": 15,
+                    "endColumn": 12,
+                    "endOffset": 941
+                },
+                "from": {
+                    "file": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 301,
+                        "endLine": 9,
+                        "endColumn": 12,
+                        "endOffset": 715
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 946,
+                    "endLine": 21,
+                    "endColumn": 12,
+                    "endOffset": 1366
+                },
+                "from": {
+                    "file": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 720,
+                        "endLine": 15,
+                        "endColumn": 12,
+                        "endOffset": 1140
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1371,
+                    "endLine": 27,
+                    "endColumn": 12,
+                    "endOffset": 1794
+                },
+                "from": {
+                    "file": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1145,
+                        "endLine": 21,
+                        "endColumn": 12,
+                        "endOffset": 1568
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1799,
+                    "endLine": 33,
+                    "endColumn": 12,
+                    "endOffset": 2220
+                },
+                "from": {
+                    "file": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1573,
+                        "endLine": 27,
+                        "endColumn": 12,
+                        "endOffset": 1994
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 2225,
+                    "endLine": 39,
+                    "endColumn": 12,
+                    "endOffset": 2649
+                },
+                "from": {
+                    "file": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1999,
+                        "endLine": 33,
+                        "endColumn": 12,
+                        "endOffset": 2423
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 2654,
+                    "endLine": 45,
+                    "endColumn": 12,
+                    "endOffset": 3074
+                },
+                "from": {
+                    "file": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 2428,
+                        "endLine": 39,
+                        "endColumn": 12,
+                        "endOffset": 2848
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 3079,
+                    "endColumn": 88,
+                    "endOffset": 3163
+                },
+                "from": {
+                    "file": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 3094,
+                        "endColumn": 88,
+                        "endOffset": 3178
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 3168,
+                    "endColumn": 100,
+                    "endOffset": 3264
+                },
+                "from": {
+                    "file": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 4,
+                        "startOffset": 3183,
+                        "endColumn": 100,
+                        "endOffset": 3279
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 3269,
+                    "endLine": 52,
+                    "endColumn": 12,
+                    "endOffset": 3672
+                },
+                "from": {
+                    "file": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 3284,
+                        "endLine": 48,
+                        "endColumn": 12,
+                        "endOffset": 3687
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 3677,
+                    "endLine": 57,
+                    "endColumn": 12,
+                    "endOffset": 4092
+                },
+                "from": {
+                    "file": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 4,
+                        "startOffset": 3692,
+                        "endLine": 53,
+                        "endColumn": 12,
+                        "endOffset": 4107
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 4097,
+                    "endLine": 59,
+                    "endColumn": 12,
+                    "endOffset": 4199
+                },
+                "from": {
+                    "file": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 56,
+                        "startColumn": 4,
+                        "startOffset": 4353,
+                        "endLine": 57,
+                        "endColumn": 12,
+                        "endOffset": 4455
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 4204,
+                    "endLine": 61,
+                    "endColumn": 12,
+                    "endOffset": 4328
+                },
+                "from": {
+                    "file": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 58,
+                        "startColumn": 4,
+                        "startOffset": 4460,
+                        "endLine": 59,
+                        "endColumn": 12,
+                        "endOffset": 4584
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 4333,
+                    "endLine": 66,
+                    "endColumn": 12,
+                    "endOffset": 4692
+                },
+                "from": {
+                    "file": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 60,
+                        "startColumn": 4,
+                        "startOffset": 4589,
+                        "endLine": 64,
+                        "endColumn": 12,
+                        "endOffset": 4948
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 67,
+                    "startColumn": 4,
+                    "startOffset": 4697,
+                    "endColumn": 70,
+                    "endOffset": 4763
+                },
+                "from": {
+                    "file": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 67,
+                        "startColumn": 4,
+                        "startOffset": 5194,
+                        "endColumn": 70,
+                        "endOffset": 5260
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 68,
+                    "startColumn": 4,
+                    "startOffset": 4768,
+                    "endColumn": 82,
+                    "endOffset": 4846
+                },
+                "from": {
+                    "file": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 68,
+                        "startColumn": 4,
+                        "startOffset": 5265,
+                        "endColumn": 82,
+                        "endOffset": 5343
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 69,
+                    "startColumn": 4,
+                    "startOffset": 4851,
+                    "endLine": 119,
+                    "endColumn": 12,
+                    "endOffset": 8595
+                },
+                "from": {
+                    "file": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 69,
+                        "startColumn": 4,
+                        "startOffset": 5348,
+                        "endLine": 119,
+                        "endColumn": 12,
+                        "endOffset": 9092
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 120,
+                    "startColumn": 4,
+                    "startOffset": 8600,
+                    "endLine": 171,
+                    "endColumn": 12,
+                    "endOffset": 12484
+                },
+                "from": {
+                    "file": "C:\\IDAN\\Programming\\Android\\AndroidStudioWorkspace_2016\\Skarim\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 120,
+                        "startColumn": 4,
+                        "startOffset": 9097,
+                        "endLine": 171,
+                        "endColumn": 12,
+                        "endOffset": 12981
+                    }
+                }
+            }
+        ]
+    }
+]
